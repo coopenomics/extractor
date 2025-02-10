@@ -1,0 +1,18 @@
+{
+  "name": "eosio-table-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "extract:dev": "NODE_ENV=dev pnpm run extract",
+    "extract:test": "NODE_ENV=test pnpm run extract",
+    "extract:prod": "NODE_ENV=prod pnpm run extract",
+    "extract": "esno extractor.ts"
+  },
+  "dependencies": {
+    "@wharfkit/antelope": "^1.0.13",
+    "@wharfkit/session": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "esno": "^4.8.0",
+    "fs-extra": "^11.1.0"
+  }
+}
