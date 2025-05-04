@@ -23,16 +23,24 @@ export const config = {
     {
       name: "soviet",
       tables: [
+        { name: "agreements" },
+        { name: "decisions" },
         { name: "participants" },
-        { name: "wallets" },
         { name: "progwallets" },
-        { name: "programs" },
+        { name: "programs" }
       ]
     },
     {
       name: "fund",
       tables: [
         { name: "coopwallet" }
+      ]
+    },
+    {
+      name: "registrator",
+      tables: [
+        { name: "orgs" },
+        { name: "candidates" }
       ]
     }
   ]

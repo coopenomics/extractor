@@ -1,0 +1,54 @@
+[
+  {
+    "id": 8,
+    "coopname": "voskhod",
+    "username": "wrlzkmnqbkap",
+    "type": "joincoop",
+    "batch_id": 8,
+    "statement": {
+      "hash": "9ceae4225f2f1be88675a2bba9d71fabdc1c2966c104ad327a22f7ef2f101452",
+      "public_key": "EOS8bXGGawhzGioGgnfHiUacgFqzuL9wKUdnBfhHf6ctAnkoGAg93",
+      "signature": "SIG_K1_K2vJRGM9AmgWf4aRar5MfPKXDH9Jibde19kVNio6EqFdEfL87SwAbR2dEHq2Pp75q6iJFwDzohfWpNiG5dhrubicKc2tLG",
+      "meta": "{\"title\":\"Заявление на вступление в кооператив\",\"lang\":\"ru\",\"registry_id\":100,\"generator\":\"coopjs\",\"links\":[\"0399EC6AA4EC4A30509D07FB343441A05005FE93AC55792132DDC0434E56F137\",\"7F0B8F6EE90B682DB0375586CCF01E72CDB88E5414674CCD9ED916451B928031\",\"F013E45231C7012346422F989D494653200A856405F37C7160FF9B1688DA9EDE\",\"CA6CFA568F483CBD998C2E92EB308140095A3AD9B7DED0B4C8B91DF94C99361F\"],\"version\":\"2.0.7\",\"coopname\":\"voskhod\",\"username\":\"wrlzkmnqbkap\",\"created_at\":\"07.10.2024 12:27\",\"block_num\":13663996,\"timezone\":\"Europe/Moscow\",\"skip_save\":false}"
+    },
+    "votes_for": [],
+    "votes_against": [],
+    "validated": 0,
+    "approved": 0,
+    "authorized": 0,
+    "authorized_by": "",
+    "authorization": {
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "public_key": "EOS1111111111111111111111111111111114T1Anm",
+      "signature": "SIG_K1_111111111111111111111111111111111111111111111111111111111111111116uk5ne",
+      "meta": ""
+    },
+    "created_at": "2024-10-07T10:50:13"
+  },
+  {
+    "id": 9,
+    "coopname": "voskhod",
+    "username": "ohibqgtwdpec",
+    "type": "joincoop",
+    "batch_id": 9,
+    "statement": {
+      "hash": "57550ac340c5a7c28b545decf2eca20ed81c2d09691022882cf7e982f725106d",
+      "public_key": "EOS6yLdmCHUMC4B7Xd7ZMWd8izXAQegG8CLfNPbcK9UdR3U7rVQ9k",
+      "signature": "SIG_K1_Kk8rycoxSww8CcX8SL1u8V7MqGccouH8pbZEEZHhDAzTuTqaEP2QzrTHaaDQ8beRWuyb3fifHMzoH1upyu2CtpBGCprfrq",
+      "meta": "{\"title\":\"Заявление на вступление в кооператив\",\"lang\":\"ru\",\"registry_id\":100,\"generator\":\"coopjs\",\"links\":[\"8398E923CCBB9B11F783C4E65EAAB07FB8B5DAAD5314C50418D7F343AE5664D2\",\"3A7F0F7AF63FE7D869B51DDE192D9A5C3B7A1378486D10CC80F035B16E77B24B\",\"F8AC66056F18142CBFC70350159FE5BE4826354E2EDDF0B67A77FA1D2027A0A7\",\"5A7D2F80C3F9C4D31ABECEC030358B08DD7FD6A594FC20E15006FE93DF859E81\"],\"version\":\"2.0.7\",\"coopname\":\"voskhod\",\"username\":\"ohibqgtwdpec\",\"created_at\":\"09.10.2024 19:25\",\"block_num\":14059830,\"timezone\":\"Europe/Moscow\",\"skip_save\":false}"
+    },
+    "votes_for": [],
+    "votes_against": [],
+    "validated": 0,
+    "approved": 0,
+    "authorized": 0,
+    "authorized_by": "",
+    "authorization": {
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "public_key": "EOS1111111111111111111111111111111114T1Anm",
+      "signature": "SIG_K1_111111111111111111111111111111111111111111111111111111111111111116uk5ne",
+      "meta": ""
+    },
+    "created_at": "2024-10-09T16:37:17"
+  }
+]

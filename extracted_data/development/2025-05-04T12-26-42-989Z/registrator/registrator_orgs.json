@@ -1,0 +1,98 @@
+[
+  {
+    "username": "honruwpdxtty",
+    "parent_username": "",
+    "announce": "pkskegol.ru",
+    "description": "",
+    "is_cooperative": 1,
+    "is_branched": 0,
+    "is_enrolled": 0,
+    "coop_type": "conscoop",
+    "registration": "200.0000 RUB",
+    "initial": "100.0000 RUB",
+    "minimum": "100.0000 RUB",
+    "org_registration": "2000.0000 RUB",
+    "org_initial": "1000.0000 RUB",
+    "org_minimum": "1000.0000 RUB",
+    "status": "active",
+    "created_at": "2024-10-23T12:33:39",
+    "document": {
+      "hash": "1ef084ed3f592d8454992685bdc24ebd52af712777acfc8ef2880d86755bfcdb",
+      "public_key": "EOS5TGsVKNWp18wCQyLiVgoFvSvhKS41RghqVVzhdVrdE43c8tBs7",
+      "signature": "SIG_K1_JzJvafsD3wqyf8oxJjaaZufaadKvkBDpfgPNqhA7e6DBPDa1rxbLBiXVieiYUhTvavg4j6XEwPPP1oekQqy1cJXhADXfb9",
+      "meta": "{\"title\":\"Пользовательское соглашение (оферта) о присоединении к платформе \\\"Кооперативная Экономика\\\"\",\"lang\":\"ru\",\"registry_id\":50,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.2\",\"coopname\":\"voskhod\",\"username\":\"honruwpdxtty\",\"created_at\":\"23.10.2024 15:28\",\"block_num\":16450438,\"timezone\":\"Europe/Moscow\"}"
+    }
+  },
+  {
+    "username": "nzpzufzhcfab",
+    "parent_username": "",
+    "announce": "coop.os16.ru",
+    "description": "",
+    "is_cooperative": 1,
+    "is_branched": 0,
+    "is_enrolled": 0,
+    "coop_type": "conscoop",
+    "registration": "200.0000 RUB",
+    "initial": "100.0000 RUB",
+    "minimum": "100.0000 RUB",
+    "org_registration": "4000.0000 RUB",
+    "org_initial": "1000.0000 RUB",
+    "org_minimum": "3000.0000 RUB",
+    "status": "active",
+    "created_at": "2025-01-21T14:49:22",
+    "document": {
+      "hash": "9f47f95231fa5c769ea7eb858f12d33db84b75361cc33b4509db2ae8c542969a",
+      "public_key": "EOS4xxJq9Z7FwEcbc7pGgKEqh4WJGUj1q2NSdCyz5rMGijZk6E7CG",
+      "signature": "SIG_K1_KhQMgSd92spbb888QBrTYBW63Z5GdheRGLt4ezj82Ami2XzZR6KSjBdeAvn3rLtz1TuDyscZ6fhYPHGYsv1gJUK3Sd4aKC",
+      "meta": "{\"title\":\"Пользовательское соглашение (оферта) о присоединении к платформе \\\"Кооперативная Экономика\\\"\",\"lang\":\"ru\",\"registry_id\":50,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.2.5\",\"coopname\":\"voskhod\",\"username\":\"nzpzufzhcfab\",\"created_at\":\"21.01.2025 17:44\",\"block_num\":31911758,\"timezone\":\"Europe/Moscow\"}"
+    }
+  },
+  {
+    "username": "pgrzosdeyuwg",
+    "parent_username": "",
+    "announce": "crm.moo-chest.ru",
+    "description": "",
+    "is_cooperative": 1,
+    "is_branched": 1,
+    "is_enrolled": 0,
+    "coop_type": "conscoop",
+    "registration": "400.0000 RUB",
+    "initial": "100.0000 RUB",
+    "minimum": "300.0000 RUB",
+    "org_registration": "4000.0000 RUB",
+    "org_initial": "1000.0000 RUB",
+    "org_minimum": "3000.0000 RUB",
+    "status": "active",
+    "created_at": "2024-10-15T20:00:19",
+    "document": {
+      "hash": "5ba668dc9a9ea9b72efce5d48740ac5095b3ac6f1963f4bcdd83825b19ba8414",
+      "public_key": "EOS87C4XtzMWfGBR4oLN4F1guPTDr4UbH5hcijQAeLirWt69ReftS",
+      "signature": "SIG_K1_KW1XZuyYByxiuLhvrAqoJfSDArSYedim4msSgp2BWAQ7mqf2yusx4zue66k6AiLeE4vEwaUaAGAfWNkVDY1B4LzmcQUnoe",
+      "meta": "{\"title\":\"Пользовательское соглашение (оферта) о присоединении к платформе \\\"Кооперативная Экономика\\\"\",\"lang\":\"ru\",\"registry_id\":50,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.0\",\"coopname\":\"voskhod\",\"username\":\"pgrzosdeyuwg\",\"created_at\":\"15.10.2024 22:57\",\"block_num\":15122020,\"timezone\":\"Europe/Moscow\"}"
+    }
+  },
+  {
+    "username": "voskhod",
+    "parent_username": "",
+    "announce": "лк.цифровой-кооператив.рф",
+    "description": "",
+    "is_cooperative": 1,
+    "is_branched": 0,
+    "is_enrolled": 0,
+    "coop_type": "conscoop",
+    "registration": "400.0000 RUB",
+    "initial": "100.0000 RUB",
+    "minimum": "300.0000 RUB",
+    "org_registration": "4000.0000 RUB",
+    "org_initial": "1000.0000 RUB",
+    "org_minimum": "3000.0000 RUB",
+    "status": "active",
+    "created_at": "2024-12-03T15:02:42",
+    "document": {
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "public_key": "EOS1111111111111111111111111111111114T1Anm",
+      "signature": "SIG_K1_111111111111111111111111111111111111111111111111111111111111111116uk5ne",
+      "meta": ""
+    }
+  }
+]

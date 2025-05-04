@@ -1,0 +1,1243 @@
+[
+  {
+    "id": 1,
+    "coopname": "pgrzosdeyuwg",
+    "username": "vmfmdqhhglvl",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "2e3de34e675aabb28e34d8032a27f25f664a776c2d75b6d464d3757149231f97",
+      "public_key": "EOS8jXr1NNBLaSFYye7Xrr6eyCrMU8zuU3DG88r6dg5CjWoNBtd4Y",
+      "signature": "SIG_K1_Kg67pbPs6j59MZjysxw1iveEtgphmjxRpgJLUqqsB8WnRZoYWzcV513ge1vDuM64Yan2zgouFUAJZ8PoZT62Pxo1pjczri",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"vmfmdqhhglvl\",\"created_at\":\"19.12.2024 17:11\",\"block_num\":26206751,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-19T14:11:30"
+  },
+  {
+    "id": 2,
+    "coopname": "pgrzosdeyuwg",
+    "username": "vmfmdqhhglvl",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "770009884f04461538327ad18f9abb838d5b4d3a2f3d8267cf0cc0765aaf9f37",
+      "public_key": "EOS8jXr1NNBLaSFYye7Xrr6eyCrMU8zuU3DG88r6dg5CjWoNBtd4Y",
+      "signature": "SIG_K1_Jv8Riqbbz5qp8Ppoqxa2BoZdnfeuRrq2yArgBeCRgXTbzPWi6P5NmGiQAuhEG286G4b25gQiwaMZ1J5hGybfY83JHiGQS2",
+      "meta": "{\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"lang\":\"ru\",\"registry_id\":3,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"vmfmdqhhglvl\",\"created_at\":\"19.12.2024 17:11\",\"block_num\":26206751,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-19T14:11:36"
+  },
+  {
+    "id": 3,
+    "coopname": "pgrzosdeyuwg",
+    "username": "vmfmdqhhglvl",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "2ba5a35734fc45cc986aa40fd122aac5e39c5525ed53763f1cbb47cb5369b7f5",
+      "public_key": "EOS8jXr1NNBLaSFYye7Xrr6eyCrMU8zuU3DG88r6dg5CjWoNBtd4Y",
+      "signature": "SIG_K1_KfaYXa5EcRVp3JiQUzYka8nL2rc7kooxrhVeM82muFx7VEAojsKpF3xfvSu1QjFyd1sBT3q6LSCdNobq3kWLnw2RdYLwfs",
+      "meta": "{\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"lang\":\"ru\",\"registry_id\":2,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"vmfmdqhhglvl\",\"created_at\":\"19.12.2024 17:11\",\"block_num\":26206751,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-19T14:11:48"
+  },
+  {
+    "id": 4,
+    "coopname": "pgrzosdeyuwg",
+    "username": "vmfmdqhhglvl",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "b340093c79a4493538e20c78eb999c47641bd64406cbd1210b5a3fd6f247b625",
+      "public_key": "EOS8jXr1NNBLaSFYye7Xrr6eyCrMU8zuU3DG88r6dg5CjWoNBtd4Y",
+      "signature": "SIG_K1_KWRTfAYJSKvXp85i2ChbWNWCstSXoaDKGBDjCCuQSUQTxCNwEkcXzgePBdidsYAsQuBrKiGLBBSQRJooauysGLiKLVnkqJ",
+      "meta": "{\"title\":\"Согласие с условиями пользовательского соглашения\",\"lang\":\"ru\",\"registry_id\":4,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"vmfmdqhhglvl\",\"created_at\":\"19.12.2024 17:11\",\"block_num\":26206751,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-19T14:11:59"
+  },
+  {
+    "id": 9,
+    "coopname": "pgrzosdeyuwg",
+    "username": "tfaidxbowzbf",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "15a392544777bd40c10aa5088e8d3425055f528401be8939b17d69d8e0be9cb9",
+      "public_key": "EOS7PAouv5LE9veHxGszQmRR435u2TKBrkQbUgMhGemrnQksj48oD",
+      "signature": "SIG_K1_K3duyFjmnAHeYLJyt2osp7dX78gY63BeSeEwF6A12Q6mZwkamLphn5uUmSBhLnyRv3HiYkfFS9GFpFMbvXXQfV8uARnSaR",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"tfaidxbowzbf\",\"created_at\":\"20.12.2024 11:20\",\"block_num\":26337454,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-20T09:16:56"
+  },
+  {
+    "id": 10,
+    "coopname": "pgrzosdeyuwg",
+    "username": "tfaidxbowzbf",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "a96a778deddfb0cc6ea6c39617e22dbcabe5a7c3a47d2be6e22be660de592d78",
+      "public_key": "EOS7PAouv5LE9veHxGszQmRR435u2TKBrkQbUgMhGemrnQksj48oD",
+      "signature": "SIG_K1_K1iwPZWeMfSCPM7cFpNVYdzgWenGpi821cgtoTRE3iyyzqeNJuSw96wMJfeJJiNWohoCPuqLUxt176ZcT5rjZJuZ2d4Xpj",
+      "meta": "{\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"lang\":\"ru\",\"registry_id\":3,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"tfaidxbowzbf\",\"created_at\":\"20.12.2024 11:20\",\"block_num\":26337454,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-20T09:17:04"
+  },
+  {
+    "id": 11,
+    "coopname": "pgrzosdeyuwg",
+    "username": "tfaidxbowzbf",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "5baacafe8c83e4231ff892579e6343345ec04cfe43cda257a2e7833f0a3452a6",
+      "public_key": "EOS7PAouv5LE9veHxGszQmRR435u2TKBrkQbUgMhGemrnQksj48oD",
+      "signature": "SIG_K1_KgRZ7xe7dRB3DesLbERb8eUyzVDHae5tUTsPigcpPBguYn2SYqiA4AyytRHRZMcKPmMe1dZ2qbafAfzaBzvw5zcbbJbdYo",
+      "meta": "{\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"lang\":\"ru\",\"registry_id\":2,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"tfaidxbowzbf\",\"created_at\":\"20.12.2024 11:20\",\"block_num\":26337454,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-20T09:17:10"
+  },
+  {
+    "id": 12,
+    "coopname": "pgrzosdeyuwg",
+    "username": "tfaidxbowzbf",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "959eee4f7518dd51110140bed08b2724f45cdbce71e968c256f16461b86a7a7f",
+      "public_key": "EOS7PAouv5LE9veHxGszQmRR435u2TKBrkQbUgMhGemrnQksj48oD",
+      "signature": "SIG_K1_KXC1smWx7WFnn4VsYcrDuuP7pB6LwTmWM9R4yd2bJaF3x6zFwYHUnspV5zG2JJtTbHiGkVtKwATGWCpFb6LaqbwtCHXoRF",
+      "meta": "{\"title\":\"Согласие с условиями пользовательского соглашения\",\"lang\":\"ru\",\"registry_id\":4,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"tfaidxbowzbf\",\"created_at\":\"20.12.2024 11:20\",\"block_num\":26337454,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-20T09:17:16"
+  },
+  {
+    "id": 13,
+    "coopname": "pgrzosdeyuwg",
+    "username": "mqgnqnqxjulh",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "38077d9f58f354630efbec923e6336fddc14cc265990563bdc6e3b19fe3db815",
+      "public_key": "EOS7owWsEqLz8FHUNRWatE93mdTM8cUq59ZJop37uZC4CyfYpfCZz",
+      "signature": "SIG_K1_Jznvc5KYFT6Q9EGDWR6JBoobRhmtSSXedGfdWyXyquia6qeVaM1BWZoHsMvVsTu2WUDSK4tg8b6xGVLLaPpFQAzcWvVbHz",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"mqgnqnqxjulh\",\"created_at\":\"20.12.2024 12:48\",\"block_num\":26347976,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-20T09:48:36"
+  },
+  {
+    "id": 14,
+    "coopname": "pgrzosdeyuwg",
+    "username": "bxermmmncxox",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "5e0ef8368e1cf8fdf413e6b6c52fa8ca04b0dbbc58042326846ccc22cfd02801",
+      "public_key": "EOS5phu5MpuhPb5RaRezRxmQmfmXn5vwRxuAseRPPURJcggRP7k8f",
+      "signature": "SIG_K1_K1VePwutr3mgYgvAD4KdLT12TB4d1CuJzHDzsojP14mR1qQgfiQNvjkRFJgjwLw97co37AZ2bEA64o9BKfffUJBAcG58N7",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"bxermmmncxox\",\"created_at\":\"23.12.2024 17:34\",\"block_num\":26900794,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-24T14:32:28"
+  },
+  {
+    "id": 15,
+    "coopname": "pgrzosdeyuwg",
+    "username": "bxermmmncxox",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "ecf89b0feff4684a4a9fcea229cebd5e19d65bd3d9ec48d2cab1ff7d218fbcab",
+      "public_key": "EOS5phu5MpuhPb5RaRezRxmQmfmXn5vwRxuAseRPPURJcggRP7k8f",
+      "signature": "SIG_K1_KhPbT2LjyHTtGLU5fJmU1QxoHn3VwMEUQ3Yh2CttyyPgHFMzBrPFEnSWeADUqfzxbq9EybNdx5812HuPzYhiVu7vMGB6Ad",
+      "meta": "{\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"lang\":\"ru\",\"registry_id\":2,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"bxermmmncxox\",\"created_at\":\"23.12.2024 17:35\",\"block_num\":26900800,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-24T14:32:28"
+  },
+  {
+    "id": 16,
+    "coopname": "pgrzosdeyuwg",
+    "username": "bxermmmncxox",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "59da6b164f78922b1d9adcb84a3072de32a7ba2bde747eda624f8a8e7b22870d",
+      "public_key": "EOS5phu5MpuhPb5RaRezRxmQmfmXn5vwRxuAseRPPURJcggRP7k8f",
+      "signature": "SIG_K1_KZKoFYKaD2wwhp2VqVJa5FN5K8cQqQuN7anZDEcPDgySyFnC26imbQ1vucevMcoZCj5Qs5FTtw1dTiaSmdJgitSrMMkajd",
+      "meta": "{\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"lang\":\"ru\",\"registry_id\":3,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"bxermmmncxox\",\"created_at\":\"23.12.2024 17:34\",\"block_num\":26900797,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-24T14:32:28"
+  },
+  {
+    "id": 17,
+    "coopname": "pgrzosdeyuwg",
+    "username": "bxermmmncxox",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "ea3659392b9813e9eac690babfa81c37da7525e0c91f6fa6a78a69630bad801d",
+      "public_key": "EOS5phu5MpuhPb5RaRezRxmQmfmXn5vwRxuAseRPPURJcggRP7k8f",
+      "signature": "SIG_K1_KkBq5RES9xESPoKtm3dve6z8QofZyxV1s3rBhvXDFAe9yWcVbdQZ1TRfdFLdaabbuVNk4m5WrBuUvtt5BdbjNEABry7D9U",
+      "meta": "{\"title\":\"Согласие с условиями пользовательского соглашения\",\"lang\":\"ru\",\"registry_id\":4,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.7\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"bxermmmncxox\",\"created_at\":\"23.12.2024 17:35\",\"block_num\":26900803,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-24T14:32:28"
+  },
+  {
+    "id": 18,
+    "coopname": "pgrzosdeyuwg",
+    "username": "sialbmlwdxqp",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "fd223cdf38ba0abc90dc009754288ac403ee2b6658d9b8d3e9a170ca2eb9189d",
+      "public_key": "EOS82Z6hRgWmx8aYjiCdp6mDA4KXTimbg8hRCwcmTDkkta9X5Y7Y3",
+      "signature": "SIG_K1_JzjxkcweUAi6t3vYak6UmL6XTppD1dfFWetsCVLYGRg7x1VA3GYmmiHFw3SAiFnJ2MmdmHskhCcgCRsUnJ64hmbWvFFzz4",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"sialbmlwdxqp\",\"created_at\":\"26.12.2024 13:15\",\"block_num\":27388043,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-26T10:17:29"
+  },
+  {
+    "id": 19,
+    "coopname": "pgrzosdeyuwg",
+    "username": "sialbmlwdxqp",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "6611b0131409313c7f613a3a948a7da3d8284d8bf9e8868da176e45acccb3cd3",
+      "public_key": "EOS82Z6hRgWmx8aYjiCdp6mDA4KXTimbg8hRCwcmTDkkta9X5Y7Y3",
+      "signature": "SIG_K1_JuZjbLah9zqc4RerDSwcSLy8BFi6ntufnH3ZAVzR1qJkAuBcezB8sKoF5BHKboj3LeQpAuVzdoK84xYS8WwrDQrGGJpEdK",
+      "meta": "{\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"lang\":\"ru\",\"registry_id\":3,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"sialbmlwdxqp\",\"created_at\":\"26.12.2024 13:15\",\"block_num\":27388043,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-26T10:17:39"
+  },
+  {
+    "id": 20,
+    "coopname": "pgrzosdeyuwg",
+    "username": "sialbmlwdxqp",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "ba4218003bbb5e5c9bb37513e73c36f699e36bbed5ae9730cc90e706a7a4167b",
+      "public_key": "EOS82Z6hRgWmx8aYjiCdp6mDA4KXTimbg8hRCwcmTDkkta9X5Y7Y3",
+      "signature": "SIG_K1_Kfh6tPduCwaDJgDZ3ywoRXyXiTKye2YEDbcvpy56whDBLrR5sxaoT9haeAZWhVJcFwDtYKgJiXocr1QugFZbcVC6AHW1fr",
+      "meta": "{\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"lang\":\"ru\",\"registry_id\":2,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"sialbmlwdxqp\",\"created_at\":\"26.12.2024 13:15\",\"block_num\":27388043,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-26T10:17:52"
+  },
+  {
+    "id": 21,
+    "coopname": "pgrzosdeyuwg",
+    "username": "sialbmlwdxqp",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "232678e11a835ef319883069cc522477ebbc50513fb4e01e201410a7e955e60d",
+      "public_key": "EOS82Z6hRgWmx8aYjiCdp6mDA4KXTimbg8hRCwcmTDkkta9X5Y7Y3",
+      "signature": "SIG_K1_JzawDcjAEFsgwg3o5md5Ud4AcCBorgJU4dqUoYycwzgxP13jMY7T7oS5Fo7TAxgzWroG2Fgw2XyQZLZCZ2SRLckRhcXTMb",
+      "meta": "{\"title\":\"Согласие с условиями пользовательского соглашения\",\"lang\":\"ru\",\"registry_id\":4,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"sialbmlwdxqp\",\"created_at\":\"26.12.2024 13:15\",\"block_num\":27388043,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-26T10:17:59"
+  },
+  {
+    "id": 22,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ssyvbqfwvkag",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "eeff914b8905f733caa141d8a1f5cd9e577e21bbbbf756bc3c8ba58814079211",
+      "public_key": "EOS7ae3ZmZZdLqZLm7DdCdY3vW9GUkSjPwZQdknLZsUPDF7sFt1JT",
+      "signature": "SIG_K1_KkFwQTpUok89YXxJ5HUoa1avDg7u9CLzkmQGppZnSJxjFv8AscvWW9HDHXmHsc6owaBQPM938aW4pc4iKfcvKsNofbCUjL",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"ssyvbqfwvkag\",\"created_at\":\"27.12.2024 11:08\",\"block_num\":27545670,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-27T08:09:05"
+  },
+  {
+    "id": 23,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ssyvbqfwvkag",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "c1489dc6979a177df1e95ae8554ab46d642a37f263767c361a0e6ee8b30c1bd9",
+      "public_key": "EOS7ae3ZmZZdLqZLm7DdCdY3vW9GUkSjPwZQdknLZsUPDF7sFt1JT",
+      "signature": "SIG_K1_KVME5RkV3wZUx9oCjFDu48NLFmKhJKjgjbW9axAA86Nu641e8B9KBGWScKTeBB9xsMT8uYAnnBMjdKuEuHQue3cGgfjyU1",
+      "meta": "{\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"lang\":\"ru\",\"registry_id\":3,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"ssyvbqfwvkag\",\"created_at\":\"27.12.2024 11:08\",\"block_num\":27545670,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-27T08:09:08"
+  },
+  {
+    "id": 24,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ssyvbqfwvkag",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "8f911c0c4ebfe352ab81294cd10b83d6d4c11adc46d5eb347ebffedee71f5918",
+      "public_key": "EOS7ae3ZmZZdLqZLm7DdCdY3vW9GUkSjPwZQdknLZsUPDF7sFt1JT",
+      "signature": "SIG_K1_K4cVmm6TcY5bZVHSY5n2jRyYw14YLRofT3c7sFPx8wvD9bnJHzvB3WckXQzZ6NdWuSpXo4q11WdybRR9EoqzoQnh2jC6ER",
+      "meta": "{\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"lang\":\"ru\",\"registry_id\":2,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"ssyvbqfwvkag\",\"created_at\":\"27.12.2024 11:08\",\"block_num\":27545670,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-27T08:09:12"
+  },
+  {
+    "id": 25,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ssyvbqfwvkag",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "1c73157718fec6ad00bfd3fe88e83c932b58b33c471ce884d5facf1f3220bfc9",
+      "public_key": "EOS7ae3ZmZZdLqZLm7DdCdY3vW9GUkSjPwZQdknLZsUPDF7sFt1JT",
+      "signature": "SIG_K1_K6y3NW4BD6TmpfQBhUR35d2rV979xEYJ1WgK52MwJjGrNu2x3GVwmPPU9TeVeyAEUCjDqfx1tRkX2d6WPs8p4FQmLAhfGS",
+      "meta": "{\"title\":\"Согласие с условиями пользовательского соглашения\",\"lang\":\"ru\",\"registry_id\":4,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"ssyvbqfwvkag\",\"created_at\":\"27.12.2024 11:08\",\"block_num\":27545670,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2024-12-27T08:09:14"
+  },
+  {
+    "id": 26,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jcyhueexawqf",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "4eaf31ef4d3cab13912b46626b60f3bf2c0a95c93256df8cfd0910b505cb6d41",
+      "public_key": "EOS6kHKtGCKLm8Yvp9Jxur7XTrKsTzH96SESjTt5hAWLr2MxbuyKy",
+      "signature": "SIG_K1_Kh9hwJckYryyy676wpBhLY2gHsLSXD6QFGUgrVDFmx998YkazQmNunwkecZSf7fW3fpa7PVMD4BZSXuvjDsFabjFJw1oY2",
+      "meta": "{\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"lang\":\"ru\",\"registry_id\":1,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"jcyhueexawqf\",\"created_at\":\"06.01.2025 12:00\",\"block_num\":29279885,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-10T11:50:57"
+  },
+  {
+    "id": 27,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jcyhueexawqf",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "cc6c1fd19f0cc82a3fb18d9129324e8e58de75d6b5cb997e153025c2e4836c9b",
+      "public_key": "EOS6kHKtGCKLm8Yvp9Jxur7XTrKsTzH96SESjTt5hAWLr2MxbuyKy",
+      "signature": "SIG_K1_KBBqU7RKyDac5iKp24wuxLhopSDYMThW94WvJ2qvwSMXgy3hmGEoBeRxQTWnMdiK3VD5fTq4Kzxtr9Lq9rmPsNL56nya35",
+      "meta": "{\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"lang\":\"ru\",\"registry_id\":2,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"jcyhueexawqf\",\"created_at\":\"06.01.2025 12:00\",\"block_num\":29279891,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-10T11:50:57"
+  },
+  {
+    "id": 28,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jcyhueexawqf",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "bdeda065387198636c6d3ff9c2084f4ad13a49443b7dce39a03844eb5a82e12d",
+      "public_key": "EOS6kHKtGCKLm8Yvp9Jxur7XTrKsTzH96SESjTt5hAWLr2MxbuyKy",
+      "signature": "SIG_K1_JyArC4YTxhCZGe2KZS5nWSGX7cmhU4ktfGriYNReUgWG8MUsd8oh7ASwMfbnS4jAyPuhN4Wbf8oXrnnqAEcuuSVRkVUyRk",
+      "meta": "{\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"lang\":\"ru\",\"registry_id\":3,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"jcyhueexawqf\",\"created_at\":\"06.01.2025 12:00\",\"block_num\":29279888,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-10T11:50:57"
+  },
+  {
+    "id": 29,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jcyhueexawqf",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "13070ddb8ee92c102c589c09377c468a7460ceddc296927da8a0da04189f027c",
+      "public_key": "EOS6kHKtGCKLm8Yvp9Jxur7XTrKsTzH96SESjTt5hAWLr2MxbuyKy",
+      "signature": "SIG_K1_K8YNnhcRyJwSf62Wyry5LCnLKGffp7QzmsTyrVSCHuiSNckmX3Q8gtpH3knYavLxNUwLZqsB3xCj6JETYk4df7Qh7mFwBQ",
+      "meta": "{\"title\":\"Согласие с условиями пользовательского соглашения\",\"lang\":\"ru\",\"registry_id\":4,\"generator\":\"coopjs\",\"links\":[],\"version\":\"2.1.8\",\"coopname\":\"pgrzosdeyuwg\",\"username\":\"jcyhueexawqf\",\"created_at\":\"06.01.2025 12:00\",\"block_num\":29279894,\"timezone\":\"Europe/Moscow\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-10T11:50:57"
+  },
+  {
+    "id": 30,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yhiuxefastoq",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "9ef5cf2154cdb25532910376f01137687fcf495a94fd229c6cd76d9ea762b8e6",
+      "public_key": "EOS8EG8zLeHGg8tHkHBsFuCu4HoqeFPXmj71Y34FMstbMsybKsG3H",
+      "signature": "SIG_K1_K754PagmrmEcz2ebwFJRgrtknTuATNWk67DhqiVf46oB5nsGPFSi2qPq8QtTU9e2Pzpzvr7TLFPW3nWY7qsLG8tU1mcwEd",
+      "meta": "{\"block_num\":31891895,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 14:59\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"yhiuxefastoq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:42:46"
+  },
+  {
+    "id": 31,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yhiuxefastoq",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "7818eacf367e84b2711bd571eea3a6395872ff2a7b69b7eb80a48632e999ec8b",
+      "public_key": "EOS8EG8zLeHGg8tHkHBsFuCu4HoqeFPXmj71Y34FMstbMsybKsG3H",
+      "signature": "SIG_K1_JxvvApH6HeGK424BhZiEsLd2SLwX9im17GijqiS49kgZo4pXoyHmkCWbeUJTx8aUZUZXAdo8KuXjV6coHVVtZex9BM4Vs9",
+      "meta": "{\"block_num\":31891901,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 14:59\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"yhiuxefastoq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:42:46"
+  },
+  {
+    "id": 32,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yhiuxefastoq",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "e47c83d5e52ab6ab1d266180443bf0f6563722e71e40e936446a2a637c29bd96",
+      "public_key": "EOS8EG8zLeHGg8tHkHBsFuCu4HoqeFPXmj71Y34FMstbMsybKsG3H",
+      "signature": "SIG_K1_KAHwrFAMPy3RSKs7bKxN5ndeMEhSpgxZprERbEe3nobabuyFAjJJW1n4z32pDB2ucbKB7bfmTWDeim65Fp5dBPzAWzz1Hz",
+      "meta": "{\"block_num\":31891898,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 14:59\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"yhiuxefastoq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:42:46"
+  },
+  {
+    "id": 33,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yhiuxefastoq",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "20835ebd165d83bd0bdc7cc4f6f93ace0399a91373bd5d333a75f4c5452b4c8d",
+      "public_key": "EOS8EG8zLeHGg8tHkHBsFuCu4HoqeFPXmj71Y34FMstbMsybKsG3H",
+      "signature": "SIG_K1_KZ1bYbyvwtCQDPSAbn4Hn6i53SxScVpp5oemHYEsCBHp6ovy1wgQbMcV7G86TWkThZwbPiQkbMwVrP8oZYBYwSYk7se7r1",
+      "meta": "{\"block_num\":31891905,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 14:59\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"yhiuxefastoq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:42:46"
+  },
+  {
+    "id": 34,
+    "coopname": "pgrzosdeyuwg",
+    "username": "mcafogoepnds",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "2242ef9fdf8cedd47e248eb71f2cb7ea994d9132dff2e3bc8ba9f9baa238b2cd",
+      "public_key": "EOS6nV9KTGjUay1Be1fLfFxvagDPKeL3XcZVoXAWQieirA9GQLwBs",
+      "signature": "SIG_K1_K1EGwQdsc1VLHyYENQ6sAwjJr3fYa7qkKs4QpWtmKku5cMT2nCesMbs3ecrxcu7MgWBa1D6GyigTGc4WVjk1irDfsCCCTG",
+      "meta": "{\"block_num\":31866421,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 11:26\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"mcafogoepnds\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:43:18"
+  },
+  {
+    "id": 35,
+    "coopname": "pgrzosdeyuwg",
+    "username": "mcafogoepnds",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "3846dd7b1aaf4865944102cd1f4986a711cf1e166a01ab1124aff5710d472665",
+      "public_key": "EOS6nV9KTGjUay1Be1fLfFxvagDPKeL3XcZVoXAWQieirA9GQLwBs",
+      "signature": "SIG_K1_K938kWWFBZacDL2pTHGVcVpes8GkJCsFkyJ8ar1AXEWzW121sKKzJhpD8YhjY2wefZoW6f6FWzMArHJKVzPpaSATXkJoxd",
+      "meta": "{\"block_num\":31866429,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 11:26\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"mcafogoepnds\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:43:18"
+  },
+  {
+    "id": 36,
+    "coopname": "pgrzosdeyuwg",
+    "username": "mcafogoepnds",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "7d2cca3b77fa1bd0a6c156d27f8a53dd6b8f7d288595ecb347660059669244c6",
+      "public_key": "EOS6nV9KTGjUay1Be1fLfFxvagDPKeL3XcZVoXAWQieirA9GQLwBs",
+      "signature": "SIG_K1_JxAzwtiAzKPtYog1RQ7KxsB6AVcT5qkKBs1uDZLhvbH7TUjCkv9PkPWAsiKGSrS7PwyMLMS8marYsZnKuYcBUYBTLNTgCv",
+      "meta": "{\"block_num\":31866425,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 11:26\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"mcafogoepnds\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:43:18"
+  },
+  {
+    "id": 37,
+    "coopname": "pgrzosdeyuwg",
+    "username": "mcafogoepnds",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "472a64d2e13723b54898f4f93d6fa41295aebaeb284a6443301914a8990afa93",
+      "public_key": "EOS6nV9KTGjUay1Be1fLfFxvagDPKeL3XcZVoXAWQieirA9GQLwBs",
+      "signature": "SIG_K1_JwUa1KcvH3Nm4mmTEUvZgrjGNHh4e8gZACWwN9AqJDDfmjDJfnoraVuceNn6TYvpHvxdUxRrNwCjXW6jX5oQiyNb8shGF6",
+      "meta": "{\"block_num\":31866431,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"21.01.2025 11:27\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"mcafogoepnds\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-22T10:43:18"
+  },
+  {
+    "id": 38,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ofbcsslxnnkn",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "5c7d917ec6b586b1440c94d1c25b416d9a199d3575ecc2e9cccfd37bc425a317",
+      "public_key": "EOS5ge6DAWCPc88Hw73iavQV2JbV2tN4CVseqXihxG4bgnHa8DFed",
+      "signature": "SIG_K1_K9X1wQAfhqbc7QZ62MdjSKA6ZAbYb6iWmghYHFHX675iJPjUoZGn83JXrVRCxZCgad2DhwTgQsyyRAxRbAxj3eZDMG3Qt4",
+      "meta": "{\"block_num\":32022497,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.01.2025 09:07\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"ofbcsslxnnkn\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:52"
+  },
+  {
+    "id": 39,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ofbcsslxnnkn",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "1b5db04b799dff38a4bf526565842238760e0bfbd34658aa9287aab4cc6a0c77",
+      "public_key": "EOS5ge6DAWCPc88Hw73iavQV2JbV2tN4CVseqXihxG4bgnHa8DFed",
+      "signature": "SIG_K1_KWa3ZBLZzaYALSAgefJqVwQFMJ4Qs71K6u5PKqHBoE5UqUn2nvgrdiavKnVSdVqAWd19u7gGzaVWE6pvtfLSSc8rXqWdPt",
+      "meta": "{\"block_num\":32022503,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.01.2025 09:07\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"ofbcsslxnnkn\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:52"
+  },
+  {
+    "id": 40,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ofbcsslxnnkn",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "f01a85b097af081b88b608bbf93b8f96b74cfc07088103e626c1fd6550c89bc0",
+      "public_key": "EOS5ge6DAWCPc88Hw73iavQV2JbV2tN4CVseqXihxG4bgnHa8DFed",
+      "signature": "SIG_K1_Kj1dUbGKj9YGjP3HpNgvFLy45yW6p29q9uJ4XzFBwiThCwiC6yueHK7dmWTyrozj57gcsYAH3Jv1EGkuxGxTwsq1AMa9eR",
+      "meta": "{\"block_num\":32022501,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.01.2025 09:07\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"ofbcsslxnnkn\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:52"
+  },
+  {
+    "id": 41,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ofbcsslxnnkn",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "d58465706539cf6138368e343ef9c0048285827fbf8d94281bb3eb5c25b950d6",
+      "public_key": "EOS5ge6DAWCPc88Hw73iavQV2JbV2tN4CVseqXihxG4bgnHa8DFed",
+      "signature": "SIG_K1_KgLhy8M9dto2QLoJiQ9nShn3UmhQ3vaKmfU1TbGG35Qpn9KSBTtqTkhUY6TTU6cPWvS8jQv5LZYuZyZPyW1ETX9PdPsNaS",
+      "meta": "{\"block_num\":32022507,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.01.2025 09:07\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"ofbcsslxnnkn\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:52"
+  },
+  {
+    "id": 42,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jnjyzekhsstl",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "265302f4b34e04c6f9e52b8cbc9d2364865a2e3328323443c44566a5fb6ace74",
+      "public_key": "EOS8YiFKQ8Rs9o8ahUFqkxQ3ngV9rF7RnThHMyepcWo1fSkfEPoRR",
+      "signature": "SIG_K1_JuTAAsrjcinWiUEQcQhuxa38XSAeQFmD1ycLL5qwZ6BFXnDa1mUVf9wk8S4mgtcH55bBFSzATtJZjuthbkipyEtbMsUxfT",
+      "meta": "{\"block_num\":32225159,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:16\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"jnjyzekhsstl\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:59"
+  },
+  {
+    "id": 43,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jnjyzekhsstl",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "c11fd0badab04ac7535a1b3add4cdd7a322849f49839960ceb2f60af91823042",
+      "public_key": "EOS8YiFKQ8Rs9o8ahUFqkxQ3ngV9rF7RnThHMyepcWo1fSkfEPoRR",
+      "signature": "SIG_K1_KB3PiJuTyAHU7XmxvqU7xDyR3RTUm2cn4gUBDZE3XMUgUDtJ94SqYvpzUXqNJx59PQNDFGbv555mcBbTfVrntA1jbnNJff",
+      "meta": "{\"block_num\":32225165,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:16\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"jnjyzekhsstl\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:59"
+  },
+  {
+    "id": 44,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jnjyzekhsstl",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "77b9a160728e383a8315453749cd8be2361178994038c61145825207d0963a05",
+      "public_key": "EOS8YiFKQ8Rs9o8ahUFqkxQ3ngV9rF7RnThHMyepcWo1fSkfEPoRR",
+      "signature": "SIG_K1_KjcFjbnu7mjcynpLdT1Fk7jionkKeVQhUeuLf9ddEtZhoqFanC55cZzoYywJbPhARtAwXGAdpSHArgVPj7F2ZcbL3ZzBVD",
+      "meta": "{\"block_num\":32225163,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:16\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"jnjyzekhsstl\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:59"
+  },
+  {
+    "id": 45,
+    "coopname": "pgrzosdeyuwg",
+    "username": "jnjyzekhsstl",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "9812d3ba2284e4d8308fdd90c7171ac76cf928969d8a4d20d95bcbfa2f890448",
+      "public_key": "EOS8YiFKQ8Rs9o8ahUFqkxQ3ngV9rF7RnThHMyepcWo1fSkfEPoRR",
+      "signature": "SIG_K1_KYFXDHvmyjgnqjfgNUdsM2Mifigm364WBjFryVMmP1Ga4ch9ysXsfXmpQoYkAc7ET9HGDFNZdszPivqj6dnNBYtnNek4Vv",
+      "meta": "{\"block_num\":32225168,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:16\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"jnjyzekhsstl\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:06:59"
+  },
+  {
+    "id": 46,
+    "coopname": "pgrzosdeyuwg",
+    "username": "wkpzpgqztlog",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "d25ec843fec52aaef1bd7585eade87662c54929f2a3b2aa5db3dad2c20ad488e",
+      "public_key": "EOS653vyewWMChiu4jFTeCJXtNKJHgQaF3rndRtAR8q5xxQygYZh1",
+      "signature": "SIG_K1_K5ATVNdkFDfhxv2VSMyP895VqnSVAqn4YksmrSM1GqXPLneFZY7nxUquLNjFgFTozUztGeBdWz5ecHhT6DrnfesgXeiquT",
+      "meta": "{\"block_num\":32227109,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:32\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"wkpzpgqztlog\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:03"
+  },
+  {
+    "id": 47,
+    "coopname": "pgrzosdeyuwg",
+    "username": "wkpzpgqztlog",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "5c9338f850a3181b428e9680ae14e43550217ab54935517557ab8983294df83c",
+      "public_key": "EOS653vyewWMChiu4jFTeCJXtNKJHgQaF3rndRtAR8q5xxQygYZh1",
+      "signature": "SIG_K1_Jyui7iFDff643D2GUxPELTJ2AeAKAvUczohjXGShNgSWjhimvaFeYSdMEeSS7ufmAW5AFoMikqU1aG298sje7HTa2rbs1Z",
+      "meta": "{\"block_num\":32227115,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:32\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"wkpzpgqztlog\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:03"
+  },
+  {
+    "id": 48,
+    "coopname": "pgrzosdeyuwg",
+    "username": "wkpzpgqztlog",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "d7f45fb1d76050bc67304dfb1cd2fd5643bea7e99f88c30f6043eef4c6b5adec",
+      "public_key": "EOS653vyewWMChiu4jFTeCJXtNKJHgQaF3rndRtAR8q5xxQygYZh1",
+      "signature": "SIG_K1_K2Ku3KQxGny6y5FX9d8Z2pBH6VPfvD5EsHmaPwuy1aHgnKEoey6LJ2ubEw6XYq9q9JP756aLcNLZ9oCT79AEzbTvLP2j6a",
+      "meta": "{\"block_num\":32227112,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:32\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"wkpzpgqztlog\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:03"
+  },
+  {
+    "id": 49,
+    "coopname": "pgrzosdeyuwg",
+    "username": "wkpzpgqztlog",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "c40aa26739f4cdaeeda02a87a5baa110bed2ee20cd037fd3e02216a7688e7777",
+      "public_key": "EOS653vyewWMChiu4jFTeCJXtNKJHgQaF3rndRtAR8q5xxQygYZh1",
+      "signature": "SIG_K1_KBXHm8YzaWRnXbkKMnjoYv55dCHQc7tDNvcncwGh4erFieEzP2r4G8q5Pt629ZnsTWWJZzV2ZR2JqHUFoaipBXimQrVmuv",
+      "meta": "{\"block_num\":32227118,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:32\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"wkpzpgqztlog\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:03"
+  },
+  {
+    "id": 50,
+    "coopname": "pgrzosdeyuwg",
+    "username": "fkyaonnkyxre",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "093770be0d843c19197bf7aa19968036a9ae93630b49b9841eb190a9cb6359e9",
+      "public_key": "EOS7ZUi1eXVXbjKu7NMyfNBFnDdPnUPDbN2zzj3yjmjBLURX3PSZQ",
+      "signature": "SIG_K1_K1BRpNHF7cZUmFAC6gwHmJ58eCZ6CNffd8c9M3KYnhFL52Yc4wA8yrjhZ536KDzTf1cFts8BZkZL7rghUa5SZzsRnkP9W9",
+      "meta": "{\"block_num\":32229361,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:51\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"fkyaonnkyxre\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:10"
+  },
+  {
+    "id": 51,
+    "coopname": "pgrzosdeyuwg",
+    "username": "fkyaonnkyxre",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "3b14a00aefe833b35026e09f00a7b70f4471a212252b088e98fc24efb1fb3eaf",
+      "public_key": "EOS7ZUi1eXVXbjKu7NMyfNBFnDdPnUPDbN2zzj3yjmjBLURX3PSZQ",
+      "signature": "SIG_K1_KYUojBotnMPkpCPHPDioxJbcNHNzGDQpT51xnLhFbtzj7wpgkt5jRxHLtjNKd3ZqG5Nmduqd2QmWfubKwrNU2P2M1N3Lcw",
+      "meta": "{\"block_num\":32229368,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:51\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"fkyaonnkyxre\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:10"
+  },
+  {
+    "id": 52,
+    "coopname": "pgrzosdeyuwg",
+    "username": "fkyaonnkyxre",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "4b8f9db2d11f0294c3b38ceffea29d205f2e80537c15782620719c33f916072d",
+      "public_key": "EOS7ZUi1eXVXbjKu7NMyfNBFnDdPnUPDbN2zzj3yjmjBLURX3PSZQ",
+      "signature": "SIG_K1_KBqsC4G8TbSWteGQ3HdX3J62W64qTJsEww316wx3cFfgh4ZvG5u9jsxe8a6zuJ3y3eXs8xU7Km3WeAfhvrNwGm6hTWdq6N",
+      "meta": "{\"block_num\":32229365,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:51\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"fkyaonnkyxre\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:10"
+  },
+  {
+    "id": 53,
+    "coopname": "pgrzosdeyuwg",
+    "username": "fkyaonnkyxre",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "0b1eea87e3bcc8a691787ac85912a3666da0ac650d7289458c8a042c6b00320f",
+      "public_key": "EOS7ZUi1eXVXbjKu7NMyfNBFnDdPnUPDbN2zzj3yjmjBLURX3PSZQ",
+      "signature": "SIG_K1_KhCxKqg23DhAiZjt4R5HAXY3vsrqbw7u8wqzKHPCaSgRrj45z2TcaCNkcCGt2uLXn4hQcuhNbs5TFgrHvTQME4vLLBM299",
+      "meta": "{\"block_num\":32229373,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"23.01.2025 13:51\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"fkyaonnkyxre\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-23T11:07:10"
+  },
+  {
+    "id": 54,
+    "coopname": "pgrzosdeyuwg",
+    "username": "cmpccgcqurfj",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "04565908ae53cb7b6ab530b9b90090fd5100a0e68e802f7342a8bedb4dc15c51",
+      "public_key": "EOS5xvs3xUu5wA5UnpQR85NHC5yx3bbed6TfWt4hpF2ZxfLvkEe8m",
+      "signature": "SIG_K1_KhEE5y4dMPZNDYXa3Kh4rF6ie1SnMZSFo8xgqg9hj6oRmpTr1F7knFBJ9kDcMGDgbrQbH2xZ5yLfiQaPqEYyAGVEveS7im",
+      "meta": "{\"block_num\":32717163,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"26.01.2025 09:36\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"cmpccgcqurfj\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:06:57"
+  },
+  {
+    "id": 55,
+    "coopname": "pgrzosdeyuwg",
+    "username": "cmpccgcqurfj",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "ea042594be066ea710df8c926a8df0d017ea68bad5420c23a9c041c498635559",
+      "public_key": "EOS5xvs3xUu5wA5UnpQR85NHC5yx3bbed6TfWt4hpF2ZxfLvkEe8m",
+      "signature": "SIG_K1_Jw7EFvyNMjf4EKcQHwaVnbtAS6X4RqLrZyPVnCsE13DaEJGThZk1XMW2jsAy479Z62rCSt82XER5HYju9w85YGC1Hcf9mK",
+      "meta": "{\"block_num\":32717171,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"26.01.2025 09:36\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"cmpccgcqurfj\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:06:57"
+  },
+  {
+    "id": 56,
+    "coopname": "pgrzosdeyuwg",
+    "username": "cmpccgcqurfj",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "c80c6efa33411d675887d5c969a1c36eb73101d3c0b7107632b204dcf399185c",
+      "public_key": "EOS5xvs3xUu5wA5UnpQR85NHC5yx3bbed6TfWt4hpF2ZxfLvkEe8m",
+      "signature": "SIG_K1_KeHJFaeq31JHHCUhxUxeHkx5umGF8PJvHo3Zwnrj9vjLYYAEmxpRnt7TmZA6hYpJFbemHATFiY31AEPrtSXqrErWMGvE29",
+      "meta": "{\"block_num\":32717167,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"26.01.2025 09:36\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"cmpccgcqurfj\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:06:57"
+  },
+  {
+    "id": 57,
+    "coopname": "pgrzosdeyuwg",
+    "username": "cmpccgcqurfj",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "86b12f98fc008ba00e3c5443a020793a44d76b969be1a098e84bc8dfa4961823",
+      "public_key": "EOS5xvs3xUu5wA5UnpQR85NHC5yx3bbed6TfWt4hpF2ZxfLvkEe8m",
+      "signature": "SIG_K1_K22fRh4oWw8BgFtjg3VhsEZJ8o9kXHaSSPA2ba28StVUJ2xFoRjQk9oJXiNexmE1MdPJyA3tpbaBKFawcn6VQcacCe5sHu",
+      "meta": "{\"block_num\":32717174,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"26.01.2025 09:36\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"cmpccgcqurfj\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:06:57"
+  },
+  {
+    "id": 58,
+    "coopname": "pgrzosdeyuwg",
+    "username": "nygjcwpaylqq",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "c9106da8d58ceedc6fd9831b85657fe0cef56430c695ca87d5dc4f30145b1b9d",
+      "public_key": "EOS4zZs7hcXHA5bsmtKf6w7EqbcHyaxQyTPaKLAuabZoJ3uRJUbyw",
+      "signature": "SIG_K1_KVELYrsigUsfgNDZYUrurT13Vd2wZxUyP9AfCokavKmwFUMTkkyAHr922zz2K3KA4djkz5RTGuJwpurrQsQ9nB9bzt8vpp",
+      "meta": "{\"block_num\":32320346,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"24.01.2025 02:29\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"nygjcwpaylqq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:07:03"
+  },
+  {
+    "id": 59,
+    "coopname": "pgrzosdeyuwg",
+    "username": "nygjcwpaylqq",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "4e734cd5fa3cd6ec159765ae7c6b58bf3c4056ece1f3cfae5d33a73c25112573",
+      "public_key": "EOS4zZs7hcXHA5bsmtKf6w7EqbcHyaxQyTPaKLAuabZoJ3uRJUbyw",
+      "signature": "SIG_K1_Kbn7QbkPwLv78K4jTNTEWrMBYBuJwbSWpvgRgKWX4428R8SBvMZmRqBDn3yGjBkbDXCZTvF7QU9mpojsN8he71oazRYdsJ",
+      "meta": "{\"block_num\":32320353,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"24.01.2025 02:29\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"nygjcwpaylqq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:07:03"
+  },
+  {
+    "id": 60,
+    "coopname": "pgrzosdeyuwg",
+    "username": "nygjcwpaylqq",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "7a83fb804108919cd0405950dfc4c3b60fbacff5d9695c1e9acd1b753a628c4e",
+      "public_key": "EOS4zZs7hcXHA5bsmtKf6w7EqbcHyaxQyTPaKLAuabZoJ3uRJUbyw",
+      "signature": "SIG_K1_JzshtdgS8KE95h4ZtUnWwq2kYaDQ23Zwov5tmBeVpD5AwAR8hGrynJR3YY154sxuTpL3mA1Sm5fcB5yje9uwctEF3wHoq4",
+      "meta": "{\"block_num\":32320349,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"24.01.2025 02:29\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"nygjcwpaylqq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:07:03"
+  },
+  {
+    "id": 61,
+    "coopname": "pgrzosdeyuwg",
+    "username": "nygjcwpaylqq",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "a6ca236d10f0cde750551daf4a5a2bdb2ed7503a7d23e2bd8914108bc55b0914",
+      "public_key": "EOS4zZs7hcXHA5bsmtKf6w7EqbcHyaxQyTPaKLAuabZoJ3uRJUbyw",
+      "signature": "SIG_K1_K9bpNnW5RxBctzxxwPSZTew3aBXqLVVZhvihLVfRDvRgYSnRS9CL6bnPsgdvg7kuXyYZg26urWZccHBsQGQRMrm4nyR6UL",
+      "meta": "{\"block_num\":32320356,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"24.01.2025 02:29\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"nygjcwpaylqq\",\"version\":\"2.2.5\"}"
+    },
+    "status": "",
+    "updated_at": "2025-01-27T09:07:03"
+  },
+  {
+    "id": 62,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ccabflxkvoas",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "1af2613db03c30983c1d27f9418bae378ac16d90560d71a8cd30d352dea2b3e8",
+      "public_key": "EOS5ySbyNSrmAMjVS9gzHctaE1CozgZEvdJGoE86vY8KiAk1kau81",
+      "signature": "SIG_K1_K3CDSqFrKN55jNSYpZJoBmVQ7rZQyaSjmk4WibBeh35WVyqtJxmcq9yhGnV5DSevibvK48dtio98sUosMRivuR9NXs314E",
+      "meta": "{\"block_num\":37428910,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:01\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"ccabflxkvoas\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T10:17:44"
+  },
+  {
+    "id": 63,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ccabflxkvoas",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "072d5b59be84eb4e04bf750aabaf7e29086c5935e591297228e791990e3b45cb",
+      "public_key": "EOS5ySbyNSrmAMjVS9gzHctaE1CozgZEvdJGoE86vY8KiAk1kau81",
+      "signature": "SIG_K1_K2HoZazyMMFJd5dqncfrVKGNkpwEhYmZ4bzStgFg87MH38xQsCeJRxLMTM86Hh3tWZi79ZmkG7uFbBLPSEf5ScVZcrAVd6",
+      "meta": "{\"block_num\":37428916,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:01\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"ccabflxkvoas\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T10:17:44"
+  },
+  {
+    "id": 64,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ccabflxkvoas",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "37bd03938091ce3594d644b00701d03ea6eb4b89940817a452a29f9f652942ec",
+      "public_key": "EOS5ySbyNSrmAMjVS9gzHctaE1CozgZEvdJGoE86vY8KiAk1kau81",
+      "signature": "SIG_K1_JwSveEdoQdK2sCESHS1GXtq1mzwYTWnPLA3D7hptsuvApGwBr39opdxp6ZrFFF38fV9j9981VLQbwUQGDnutTieQTrJjGP",
+      "meta": "{\"block_num\":37428913,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:01\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"ccabflxkvoas\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T10:17:44"
+  },
+  {
+    "id": 65,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ccabflxkvoas",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "e1d572585a11e3f13ffc8d5ceba8f68d708a4dce929dab875338e82979fe34a6",
+      "public_key": "EOS5ySbyNSrmAMjVS9gzHctaE1CozgZEvdJGoE86vY8KiAk1kau81",
+      "signature": "SIG_K1_KjZqr6a4aoBiKS7ynTGa9ddA2KD2ojo1EaPWSPx4DPEqSMQp9GeHaUXWtCg8v5QZP4gLv18ZFxh6ghERfkMA8ydi65ssJT",
+      "meta": "{\"block_num\":37428920,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:01\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"ccabflxkvoas\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T10:17:44"
+  },
+  {
+    "id": 66,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yzhiybmabfid",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "c93b80602ecaf4e82ee579b368786a0e0820d791becea9522e8a8c8d0020524c",
+      "public_key": "EOS5AyzJxB5PpxNqpS9DzK1kVisFVUgcopX7yXhTY6e63o5yEoZjo",
+      "signature": "SIG_K1_JzwxxUWbYJDXDS9DzRPxs7mU8rzhQhKXT1muJB5UkoPBy6s4Sq861P2zrYajGfCSHX5VqLBm9sysfdsZq2mesJPhuYfhGE",
+      "meta": "{\"block_num\":37434258,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:45\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"yzhiybmabfid\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T12:29:34"
+  },
+  {
+    "id": 67,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yzhiybmabfid",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "ebdce44f706dd958c58e4caeaf359f6b179c4347ac4d0366fc0a82c400316185",
+      "public_key": "EOS5AyzJxB5PpxNqpS9DzK1kVisFVUgcopX7yXhTY6e63o5yEoZjo",
+      "signature": "SIG_K1_Kckuq78Ma8r94sMVUe3vFNr7nXGQ7PVNt75y339ZwvqFrfmr9NXe7ge4mJjCXJ3ZpixYJUNNBBoanQbew8GQwwHLNar3AE",
+      "meta": "{\"block_num\":37434265,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:45\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"yzhiybmabfid\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T12:29:34"
+  },
+  {
+    "id": 68,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yzhiybmabfid",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "d674aabb3ebd2f789bc5197dce5239c162d01f95e6792b437e91a77aa41e1f50",
+      "public_key": "EOS5AyzJxB5PpxNqpS9DzK1kVisFVUgcopX7yXhTY6e63o5yEoZjo",
+      "signature": "SIG_K1_JyUjUqdHQKwE9pFQiq9H26psign4kExF78b7xt2Aa5ugmBQLJPtrGJpd7s56uLi4K7ynAp1Z5t5T1NWwNn4bpTBYm1Yjji",
+      "meta": "{\"block_num\":37434262,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:45\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"yzhiybmabfid\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T12:29:34"
+  },
+  {
+    "id": 69,
+    "coopname": "pgrzosdeyuwg",
+    "username": "yzhiybmabfid",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "d2e934c79c5f6714d5f229f9cfa8937d9274671c842c76bc3833e7fae7eca3a3",
+      "public_key": "EOS5AyzJxB5PpxNqpS9DzK1kVisFVUgcopX7yXhTY6e63o5yEoZjo",
+      "signature": "SIG_K1_K7Xqgw1ciqrxi94owqvwYtdn1eLwpHpuA5j77p7zjJ4xw4ozdgNAunib5ZxnPm4pzvHVCgVe2mPF6QP77XCD8E3wy6FXsB",
+      "meta": "{\"block_num\":37434271,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"22.02.2025 16:46\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"yzhiybmabfid\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-02-24T12:29:34"
+  },
+  {
+    "id": 70,
+    "coopname": "pgrzosdeyuwg",
+    "username": "erigbuzeeiji",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "a8770cfacf13b47d9996db226e0ab70d2261016cad1ce6227bcfe679d948345a",
+      "public_key": "EOS8k8n5Yg9cmSkLEEAapuPso1MrNsP9ZN6bVePecwS1fmnNSDzsT",
+      "signature": "SIG_K1_K4EEAZmgJE5wZ6DVFVZM3rgfMX5t5TFLXtxwLTTPxHbhyKswTGi4FgZpGUgsYpV5ZK6gd9rC8XENT8igSASCHDpiBXtTDG",
+      "meta": "{\"block_num\":39529900,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"06.03.2025 19:49\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"erigbuzeeiji\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-03-10T08:39:39"
+  },
+  {
+    "id": 71,
+    "coopname": "pgrzosdeyuwg",
+    "username": "erigbuzeeiji",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "5005fcfa036511243e159a2ebc9425d4692e8a7c0dd876a5a978e89ff3b43ddb",
+      "public_key": "EOS8k8n5Yg9cmSkLEEAapuPso1MrNsP9ZN6bVePecwS1fmnNSDzsT",
+      "signature": "SIG_K1_KXHoPtGsZExRnSz1oUi2v2c7fCzMtY4zhHNJ7sr2mS6u5szfaD1HMt1k1egAMKXjFzjy6zqP8KkkuEDPgzwaNiBqwrWNrS",
+      "meta": "{\"block_num\":39529907,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"06.03.2025 19:49\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"erigbuzeeiji\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-03-10T08:39:39"
+  },
+  {
+    "id": 72,
+    "coopname": "pgrzosdeyuwg",
+    "username": "erigbuzeeiji",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "7e54d7ce0d633ff5692d65f8e7da06c1e96354bb2458448c136d87fee3c1e2b5",
+      "public_key": "EOS8k8n5Yg9cmSkLEEAapuPso1MrNsP9ZN6bVePecwS1fmnNSDzsT",
+      "signature": "SIG_K1_K3xcM9q2GUHAhCnLMd6cHE3gFCfhP5xK2udbttScgyQE2WvniGRcFqd1AHqNDXpKcapcL2XMfKx4qbChBuYn3b1HBzkk5F",
+      "meta": "{\"block_num\":39529904,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"06.03.2025 19:49\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"erigbuzeeiji\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-03-10T08:39:39"
+  },
+  {
+    "id": 73,
+    "coopname": "pgrzosdeyuwg",
+    "username": "erigbuzeeiji",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "4840b651313cd5930566b29c8675977e9a4364bb1d404ab23818e9d22eff0d62",
+      "public_key": "EOS8k8n5Yg9cmSkLEEAapuPso1MrNsP9ZN6bVePecwS1fmnNSDzsT",
+      "signature": "SIG_K1_JubsfNDzSSPeo9Lc7CLZFJQLyH9wDKr1p9c33AAJ3BFG5ZzCwHSPJxcm2NNfaPGLGBRqnvnt7wfmuH9vB4BYBrgEGSoUdN",
+      "meta": "{\"block_num\":39529909,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"06.03.2025 19:49\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"erigbuzeeiji\",\"version\":\"2.2.8\"}"
+    },
+    "status": "",
+    "updated_at": "2025-03-10T08:39:39"
+  },
+  {
+    "id": 74,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ushibapenkri",
+    "type": "wallet",
+    "program_id": 1,
+    "draft_id": 1,
+    "version": 3,
+    "document": {
+      "hash": "e1d4a2c851938a190f7962acdc67672a2608d0dc730159f9c4b5872f4764ba19",
+      "public_key": "EOS5FHDDnvDjTxs4Uxz8dYhSM5wvv8xnvyjFpPw1KzMRNy7ZQeNGV",
+      "signature": "SIG_K1_K9kUG1xBLFFhbhzgdC9tiH6KouQjCqecYnRWpBz67xUuf9frf421vWmZyhRVpSSDHWxDzTUeis6tzjmTcSDNPwDPt25wWF",
+      "meta": "{\"block_num\":43211102,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"29.03.2025 20:15\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":1,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями ЦПП «ЦИФРОВОЙ КОШЕЛЕК»\",\"username\":\"ushibapenkri\",\"version\":\"2.2.10\"}"
+    },
+    "status": "",
+    "updated_at": "2025-04-01T14:32:51"
+  },
+  {
+    "id": 75,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ushibapenkri",
+    "type": "signature",
+    "program_id": 0,
+    "draft_id": 2,
+    "version": 3,
+    "document": {
+      "hash": "2f8feaef4cfc0b8a3cef2563b310679d355903e8e525e3bbb9783292c0cf0b4c",
+      "public_key": "EOS5FHDDnvDjTxs4Uxz8dYhSM5wvv8xnvyjFpPw1KzMRNy7ZQeNGV",
+      "signature": "SIG_K1_KUwnXjW5gCD5mBovbbatYCqC7KfRshL7d8BEfbVfqg79edxEhn6FXvwERM2dm7iAQMKBX65y2i46EhNCvVtadLibJYVqq7",
+      "meta": "{\"block_num\":43211108,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"29.03.2025 20:15\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":2,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями положения о простой электронной подписи\",\"username\":\"ushibapenkri\",\"version\":\"2.2.10\"}"
+    },
+    "status": "",
+    "updated_at": "2025-04-01T14:32:51"
+  },
+  {
+    "id": 76,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ushibapenkri",
+    "type": "privacy",
+    "program_id": 0,
+    "draft_id": 4,
+    "version": 3,
+    "document": {
+      "hash": "c38452514c67496499c04bad6d72b341d3a3d1e992c6006eb7f26e42cb1f4421",
+      "public_key": "EOS5FHDDnvDjTxs4Uxz8dYhSM5wvv8xnvyjFpPw1KzMRNy7ZQeNGV",
+      "signature": "SIG_K1_K4th6ADL8meDPuQgeSq3gtZ6eo1tdfmvQzKvu7nr57CURr1fDwBpdSQrgTGroww1iGU8BezFtvgHgqPJy5dPvbnav9mLkb",
+      "meta": "{\"block_num\":43211106,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"29.03.2025 20:15\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":3,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями политики обработки конфиденциальных данных\",\"username\":\"ushibapenkri\",\"version\":\"2.2.10\"}"
+    },
+    "status": "",
+    "updated_at": "2025-04-01T14:32:51"
+  },
+  {
+    "id": 77,
+    "coopname": "pgrzosdeyuwg",
+    "username": "ushibapenkri",
+    "type": "user",
+    "program_id": 0,
+    "draft_id": 3,
+    "version": 3,
+    "document": {
+      "hash": "5560c3bc666e91272c385a2ec0fc81cb5d63b3d9cd92f4226321ac31f43c1341",
+      "public_key": "EOS5FHDDnvDjTxs4Uxz8dYhSM5wvv8xnvyjFpPw1KzMRNy7ZQeNGV",
+      "signature": "SIG_K1_KjvnSy6szWTjS1GZ5pfJSZchiyLhDcoU9gBb2DvHiVFggWL8WS2UYqvpnPnpzSzdnrf4XRxwKPyZ13rzv9WTfQ8rZLC6fp",
+      "meta": "{\"block_num\":43211110,\"coopname\":\"pgrzosdeyuwg\",\"created_at\":\"29.03.2025 20:15\",\"generator\":\"coopjs\",\"lang\":\"ru\",\"links\":[],\"registry_id\":4,\"timezone\":\"Europe/Moscow\",\"title\":\"Согласие с условиями пользовательского соглашения\",\"username\":\"ushibapenkri\",\"version\":\"2.2.10\"}"
+    },
+    "status": "",
+    "updated_at": "2025-04-01T14:32:51"
+  }
+]
